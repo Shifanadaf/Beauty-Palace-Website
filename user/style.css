@@ -1,0 +1,54 @@
+.header{
+ position: absolute;
+    width: 1380px;
+
+	z-index: 99;
+background:black;
+opacity: 0.5;
+/*height: 120px;*/
+margin-bottom:50px;
+height: 550px;
+}
+#h1
+{   margin-top: 250px;
+	font-size: 50px;
+	opacity: 1;
+	color: white;
+	font-family: "Lucdia Handwriting",cursive;
+
+}
+.margin
+{
+	margin-top: 20px;
+
+}
+.btn
+{
+	opacity: 1;
+	background-color: blue;
+	color: white;
+}
+
+.anchor
+{
+	color: black;
+}
+.contact{
+ /*position: absolute;*/
+    width: 1380px;
+
+	z-index: 99;
+background:black;
+opacity: 0.5;
+/*height: 120px;*/
+margin-bottom:50px;
+height: 150px;
+}
+.b
+{
+	background-color: #DFCCFA; 
+}
+.dish
+{
+	color: white;
+}
